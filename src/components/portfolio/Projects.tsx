@@ -1,41 +1,41 @@
 const projects = [
   {
-    image: "/public/papayalogo.png",
+    image: "/papayalogo.png",
     title: "PapayaFresh",
     description:
       "Machine Learning application built for predicting the shelf life of papayas based on various factors such as ripeness, storage conditions, and handling practices.",
     tags: ["Machine Learning", "Data Science", "Flutter"],
   },
   {
-    image: "/public/student.jpg",
+    image: "/student.jpg",
     title: "Basic Student Profile System",
     description:
       "A student profile system built using Java, allowing students to create and manage their profiles, including personal information, academic records, and extracurricular activities.",
     tags: ["Java", "CRUD", "Profiling", "MySQL"],
   },
   {
-    image: "/public/food.jpg",
+    image: "/food.jpg",
     title: "Atlas - Food delivery reimagined",
     description:
       "Online Restaurant Food Delivery System built using PHP and MySQL, allowing users to browse restaurant menus, place orders, and manage deliveries efficiently.",
     tags: ["E-commerce", "Motion", "PHP", "MySQL"],
   },
   {
-    image: "/public/facerecog.jpg",
+    image: "/facerecog.jpg",
     title: "Face Recognition Attendance System",
     description:
       "A facial recognition attendance system built using Python and OpenCV, enabling automated attendance tracking by recognizing and verifying individuals based on their facial features.",
     tags: ["Python", "Computer Vision", "MySQL"],
   },
   {
-    image: "/public/pwd.jpg",
+    image: "/pwd.jpg",
     title: "PWD Tulong",
     description:
       "An application designed to assist Persons with Disabilities (PWDs) in accessing various services and resources, providing a user-friendly interface and features tailored to their needs.",
     tags: ["Accessibility", "Mobile App", "Flutter"],
   },
   {
-    image: "/public/wela.jpg",
+    image: "/wela.jpg",
     title: "WELA - Livro Web/Mobile Applications",
     description:
       "Designed various web and mobile applications in Figma for WELA, such as CHURN School Manager, SPRINT Cycle, Design System, and more. These applications were built to streamline operations, enhance user experience, and provide efficient solutions for the company's needs.",
